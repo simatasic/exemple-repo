@@ -1,2 +1,2 @@
 # curso digital git
-#commando GIT pull
+* commando GIT pull
